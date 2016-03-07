@@ -1,0 +1,6 @@
+*.o
+*.pro.user*
+.qmake*
+build*
+Makefile
+FirstScene
